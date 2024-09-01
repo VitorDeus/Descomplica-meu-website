@@ -1,0 +1,13 @@
+.footer {
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Customizing the Jumbotron */
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+    border-radius: 0.3rem;
+}
